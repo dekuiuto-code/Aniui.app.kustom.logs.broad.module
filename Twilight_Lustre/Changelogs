@@ -1,1 +1,28 @@
-
+{
+  "versions": [
+    {
+      "version": "1.1.0",
+      "date": "2026-10-15",
+      "entries": [
+        {
+          "type": "FIXED",
+          "description": "Fixed wallpaper detail preview viewport padding and edge-to-edge system insets."
+        },
+        {
+          "type": "ADDED",
+          "description": "Added Fit Full Artwork mode and pinch-to-zoom in wallpaper preview."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-10-01",
+      "entries": [
+        {
+          "type": "ADDED",
+          "description": "Initial production release with Material 3 Expressive Connected Button Group navigation."
+        }
+      ]
+    }
+  ]
+}
